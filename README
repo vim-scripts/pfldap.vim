@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3919
+
+Postfix supports multiple types of databases to lookup users, aliases, domains and other information (http://www.postfix.org/DATABASE_README.html).
+This syntax definition makes editing LDAP lookup table description files (http://www.postfix.org/ldap_table.5.html) a bit easier.
+
